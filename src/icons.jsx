@@ -46,3 +46,5 @@ export const CartIcon = () => {
       </svg>
     );
   };
+
+ 
